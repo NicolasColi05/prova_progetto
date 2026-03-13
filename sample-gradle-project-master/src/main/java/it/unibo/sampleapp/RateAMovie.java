@@ -33,5 +33,9 @@ public final class RateAMovie {
 
         System.err.println("booh");
        }
+<<<<<<< HEAD
+=======
+       System.out.println("forza inter");
+>>>>>>> fede_prova_da_casa
     }
 }
