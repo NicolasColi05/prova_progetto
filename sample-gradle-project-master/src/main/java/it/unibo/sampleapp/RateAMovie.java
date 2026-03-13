@@ -26,13 +26,12 @@ public final class RateAMovie {
      */
     public static void main(final String[] args) {
        System.out.println("ciao");
-<<<<<<< HEAD
        System.out.println("il mago samu");
-=======
        int i = 0;
        if(i == 0) {
         System.out.println("gay");
+
+        System.err.println("booh");
        }
->>>>>>> 59b0256efb699bfea465fd7ffa7df5fda254a05e
     }
 }
