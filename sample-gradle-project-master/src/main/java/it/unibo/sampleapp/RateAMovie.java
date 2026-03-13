@@ -26,5 +26,6 @@ public final class RateAMovie {
      */
     public static void main(final String[] args) {
        System.out.println("ciao");
+       System.out.println("il mago samu");
     }
 }
