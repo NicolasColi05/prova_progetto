@@ -26,5 +26,9 @@ public final class RateAMovie {
      */
     public static void main(final String[] args) {
        System.out.println("ciao");
+       int i = 0;
+       if(i == 0) {
+        System.out.println("gay");
+       }
     }
 }
